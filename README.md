@@ -3,7 +3,7 @@ List for learning image steganography
 
 #### Modeling based 
 
-MiPod (*Content-Adaptive Steganography by Minimizing Statistical Detectability*): [[PDF](#http://ws.binghamton.edu/fridrich/Research/MiPOD.pdf)] [[CODE](#http://dde.binghamton.edu/download/stego_algorithms/download/MiPOD_matlab.zip)]
+MiPod (*Content-Adaptive Steganography by Minimizing Statistical Detectability*): [PDF](#http://ws.binghamton.edu/fridrich/Research/MiPOD.pdf) [CODE](#http://dde.binghamton.edu/download/stego_algorithms/download/MiPOD_matlab.zip)
 
 MVG (*Improving Steganographic Security by Synchronizing the Selection Channel*): [[PDF](#http://dde.binghamton.edu/kodovsky/pdf/ICASSP2013_Multivariate_Gaussian_model.pdf)] [[CODE](#http://dde.binghamton.edu/download/stego_algorithms/download/MVG_matlab.zip)]
 
