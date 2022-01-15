@@ -1,4 +1,4 @@
-# LearningImageSteganography
+# Learning Image Steganography
 List for learning image steganography
 
 #### Modeling based 
