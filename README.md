@@ -2,7 +2,14 @@
 List for learning image steganography
 
 #### GAN based 
-ASDL-GAN(*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) [[CODE]]()
+
+##### * Cost Learning
+
+ASDL-GAN (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) [[CODE]]()
+
+UT-GAN (*An embedding cost learning framework using GAN*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2922229) [[CODE]](https://github.com/JianhuaYang001/spatial-image-steganography)
+
+Wu's (*GAN-based steganography with the concatenation of multiple feature maps*): [[PDF]](https://books.google.ca/books?hl=en&lr=&id=h87YDwAAQBAJ&oi=fnd&pg=PA3&dq=GAN-based+steganography+with+the+concatenation+of+multiple+feature+maps&ots=wRZE6lES6b&sig=c5wEVP0VVk05H0Toshl7KuCDHXc#v=onepage&q=GAN-based%20steganography%20with%20the%20concatenation%20of%20multiple%20feature%20maps&f=false) [[CODE]]()
 
 
 
