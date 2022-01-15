@@ -1,6 +1,11 @@
 # Learning Image Steganography
 List for learning image steganography
 
+#### GAN based 
+ASDL-GAN(*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) [[CODE]]()
+
+
+
 #### Modeling based 
 MiPod (*Content-Adaptive Steganography by Minimizing Statistical Detectability*): [[PDF]](http://ws.binghamton.edu/fridrich/Research/MiPOD.pdf) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/MiPOD_matlab.zip)
 
