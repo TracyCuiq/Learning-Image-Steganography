@@ -1,7 +1,9 @@
 # Learning Image Steganography
 List for learning image steganography
 
-#### GAN based 
+
+
+### GAN based
 
 * ##### Cost Learning
 
@@ -21,9 +23,9 @@ List for learning image steganography
 
 **CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244)
 
+------
 
-
-#### Adversarial attack based 
+### Adversarial attack based 
 
 * ##### Adding adversarial perturbations
 
@@ -39,23 +41,24 @@ List for learning image steganography
 
 **Bernard's** (*Explicit optimization of min max steganographic game*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3021913) 
 
+------
 
-
-#### Reinforcement learning based
+### Reinforcement learning based
 
 **MCTSteg** (*MCTSteg: A Monte Carlo tree search-based reinforcement learning framework for universal non-additive steganography*): [[PDF]](https://arxiv.org/pdf/2103.13689) 
 
 **SPAR-RL** (*An automatic cost learning framework for image steganography using deep reinforcement learning*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3025438)
 
+------
 
-
-#### Modeling based 
+### Modeling based 
 
 **MiPod** (*Content-Adaptive Steganography by Minimizing Statistical Detectability*): [[PDF]](http://ws.binghamton.edu/fridrich/Research/MiPOD.pdf) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/MiPOD_matlab.zip)
 
 **MVG** (*Improving Steganographic Security by Synchronizing the Selection Channel*): [[PDF]](http://dde.binghamton.edu/kodovsky/pdf/ICASSP2013_Multivariate_Gaussian_model.pdf) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/MVG_matlab.zip)
 
 **MG** (*Content-Adaptive Pentary Steganography Using the Multivariate Generalized Gaussian Cover Model*): [[PDF]](http://dde.binghamton.edu/vsedighi/pdf/SPIE2015_Content_Adaptive_Pentary_Steganography_Using_The_Multivariate_Generalized_Gaussian_Cover_Model.pdf) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/MG_matlab.zip)
+
 
 
 
