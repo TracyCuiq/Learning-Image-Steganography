@@ -35,7 +35,7 @@ List for learning image steganography
 
 **ADV-EMB** (*CNN-based adversarial embedding for image steganography*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2891237) 
 
-**Ma's** (*Adaptive spatial steganography based on adversarial examples*): [[PDF]](https://sci-hub.se/10.1007/s11042-019-07994-3) 
+**AEN** (*Adaptive spatial steganography based on adversarial examples*): [[PDF]](https://sci-hub.se/10.1007/s11042-019-07994-3) 
 
 **ITE-SYN** (*Image steganography based on iterative adversarial perturbations onto a synchronized-directions sub-image*): [[PDF]](https://sci-hub.se/10.1109/icassp39728.2021.9414055) 
 
