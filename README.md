@@ -6,15 +6,17 @@ List for learning image steganography
 
 * ##### Cost Learning
 
-**ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) 2017.
+**ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) SPL 2017
 
-**UT-GAN** (*An embedding cost learning framework using GAN*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2922229) [[CODE]](https://github.com/JianhuaYang001/spatial-image-steganography)
+**UT-GAN** (*An embedding cost learning framework using GAN*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2922229) [[CODE]](https://github.com/JianhuaYang001/spatial-image-steganography) TIFS 2019
 
-**Wu's** (*GAN-based steganography with the concatenation of multiple feature maps*): [[PDF]](https://books.google.ca/books?hl=en&lr=&id=h87YDwAAQBAJ&oi=fnd&pg=PA3&dq=GAN-based+steganography+with+the+concatenation+of+multiple+feature+maps&ots=wRZE6lES6b&sig=c5wEVP0VVk05H0Toshl7KuCDHXc#v=onepage&q=GAN-based%20steganography%20with%20the%20concatenation%20of%20multiple%20feature%20maps&f=false) 
+**JS-GAN** (*Towards automatic embedding cost learning for JPEG steganography*): [[PDF]](https://www.researchgate.net/profile/Jianhua-Yang-10/publication/334351310_Towards_Automatic_Embedding_Cost_Learning_for_JPEG_Steganography/links/5db59061299bf111d4d0c911/Towards-Automatic-Embedding-Cost-Learning-for-JPEG-Steganography.pdf) MM 2019
 
-**UMC-GAN** (*A stable GAN for image steganography with multi-order feature fusion*)
+**Wu's** (*GAN-based steganography with the concatenation of multiple feature maps*): [[PDF]](https://books.google.ca/books?hl=en&lr=&id=h87YDwAAQBAJ&oi=fnd&pg=PA3&dq=GAN-based+steganography+with+the+concatenation+of+multiple+feature+maps&ots=wRZE6lES6b&sig=c5wEVP0VVk05H0Toshl7KuCDHXc#v=onepage&q=GAN-based%20steganography%20with%20the%20concatenation%20of%20multiple%20feature%20maps&f=false) IWDW 2019
 
-**ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/)
+**UMC-GAN** (*A stable GAN for image steganography with multi-order feature fusion*) NCAA 2022
+
+**ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
 * ##### Cover Generation/Enhancement
 
