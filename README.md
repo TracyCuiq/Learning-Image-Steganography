@@ -20,11 +20,11 @@ List for learning image steganography
 
 * ##### Cover Generation/Enhancement
 
-**SGAN** (*Steganographic generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1703.05502) [[CODE]](https://github.com/dvolkhonskiy/adversarial-steganography) [[CODE by YanLo]](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387)
+**SGAN** (*Steganographic generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1703.05502) [[CODE]](https://github.com/dvolkhonskiy/adversarial-steganography) [[CODE by YanLo]](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387) ICMV 2020
 
-**SSGAN** (*SSGAN: secure steganography based on generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1707.01613) 
+**SSGAN** (*SSGAN: secure steganography based on generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1707.01613) PCM 2018
 
-**CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244)
+**CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244) TNSE 2022
 
 ------
 
@@ -32,31 +32,31 @@ List for learning image steganography
 
 * ##### Adding adversarial perturbations
 
-**Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [[PDF]](https://sci-hub.se/10.1145/3206004.3206012) 
+**Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [[PDF]](https://sci-hub.se/10.1145/3206004.3206012) IH&MMSec 2018
 
 * ##### Adversarial embedding
 
-**ADV-EMB** (*CNN-based adversarial embedding for image steganography*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2891237) 
+**ADV-EMB** (*CNN-based adversarial embedding for image steganography*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2891237) TIFS 2019
 
-**AEN** (*Adaptive spatial steganography based on adversarial examples*): [[PDF]](https://sci-hub.se/10.1007/s11042-019-07994-3) 
+**AEN** (*Adaptive spatial steganography based on adversarial examples*): [[PDF]](https://sci-hub.se/10.1007/s11042-019-07994-3) MTAA 2019
 
-**ITE-SYN** (*Image steganography based on iterative adversarial perturbations onto a synchronized-directions sub-image*): [[PDF]](https://sci-hub.se/10.1109/icassp39728.2021.9414055) 
+**ITE-SYN** (*Image steganography based on iterative adversarial perturbations onto a synchronized-directions sub-image*): [[PDF]](https://sci-hub.se/10.1109/icassp39728.2021.9414055) ICASSP 2021
 
-**Bernard's** (*Explicit optimization of min max steganographic game*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3021913) 
+**Bernard's** (*Explicit optimization of min max steganographic game*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3021913) TIFS 2020
 
-**JS-IAE** (*Enhancing JPEG steganography using iterative adversarial examples*): [[PDF]](https://sci-hub.se/10.1109/wifs47025.2019.9035101)
+**JS-IAE** (*Enhancing JPEG steganography using iterative adversarial examples*): [[PDF]](https://sci-hub.se/10.1109/wifs47025.2019.9035101) WIFS 2019
 
-**Liu's** (*A New Adversarial Embedding Method for Enhancing Image Steganography*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535158)
+**Liu's** (*A New Adversarial Embedding Method for Enhancing Image Steganography*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535158) TIFS 2021
 
-
+**Backpack** (*Backpack: A backpropagable adversarial embedding scheme*): [[PDF]](https://hal.science/hal-03760241/document) TIFS 2022
 
 ------
 
 ### Reinforcement learning based
 
-**MCTSteg** (*MCTSteg: A Monte Carlo tree search-based reinforcement learning framework for universal non-additive steganography*): [[PDF]](https://arxiv.org/pdf/2103.13689) 
+**MCTSteg** (*MCTSteg: A Monte Carlo tree search-based reinforcement learning framework for universal non-additive steganography*): [[PDF]](https://arxiv.org/pdf/2103.13689) TIFS 2021
 
-**SPAR-RL** (*An automatic cost learning framework for image steganography using deep reinforcement learning*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3025438)
+**SPAR-RL** (*An automatic cost learning framework for image steganography using deep reinforcement learning*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3025438) TIFS 2020
 
 ------
 
@@ -96,7 +96,11 @@ List for learning image steganography
 
 **Gibbs**(*Gibbs construction in steganography*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5580091)
 
-**STC**(*Minimizing Additive Distortion in Steganography Using Syndrome-Trellis Codes*): [[PDF]](https://sci-hub.se/10.1109/tifs.2011.2134094)
+**STC**(*Minimizing Additive Distortion in Steganography Using Syndrome-Trellis Codes*): [[PDF]](https://sci-hub.se/10.1109/tifs.2011.2134094) TIFS 2011
+
+**SPC** (*Designing near-optimal steganographic codes in practice based on polar codes*) [[http://home.ustc.edu.cn/~zh2991/20TCOM_SPC/2020%20TCOM%20Designing%20Near-Optimal%20Steganographic%20Codes%20in%20Practice%20Based%20on%20Polar%20Codes.pdf]] TCOM 2020
+
+
 
 
 
