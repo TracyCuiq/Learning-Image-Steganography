@@ -12,6 +12,10 @@ List for learning image steganography
 
 **Wu's** (*GAN-based steganography with the concatenation of multiple feature maps*): [[PDF]](https://books.google.ca/books?hl=en&lr=&id=h87YDwAAQBAJ&oi=fnd&pg=PA3&dq=GAN-based+steganography+with+the+concatenation+of+multiple+feature+maps&ots=wRZE6lES6b&sig=c5wEVP0VVk05H0Toshl7KuCDHXc#v=onepage&q=GAN-based%20steganography%20with%20the%20concatenation%20of%20multiple%20feature%20maps&f=false) 
 
+**UMC-GAN** (*A stable GAN for image steganography with multi-order feature fusion*)
+
+**ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/)
+
 * ##### Cover Generation/Enhancement
 
 **SGAN** (*Steganographic generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1703.05502) [[CODE]](https://github.com/dvolkhonskiy/adversarial-steganography) [[CODE by YanLo]](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387)
