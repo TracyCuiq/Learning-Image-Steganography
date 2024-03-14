@@ -14,7 +14,7 @@ List for learning image steganography
 
 **UMC-GAN** (*A stable GAN for image steganography with multi-order feature fusion*)
 
-**ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]]([https://ieeexplore.ieee.org/abstract/document/10398515/](https://ieeexplore.ieee.org/abstract/document/10398515/))
+**ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/)
 
 * ##### Cover Generation/Enhancement
 
