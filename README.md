@@ -98,7 +98,7 @@ List for learning image steganography
 
 **STC**(*Minimizing Additive Distortion in Steganography Using Syndrome-Trellis Codes*): [[PDF]](https://sci-hub.se/10.1109/tifs.2011.2134094) TIFS 2011
 
-**SPC** (*Designing near-optimal steganographic codes in practice based on polar codes*) [[http://home.ustc.edu.cn/~zh2991/20TCOM_SPC/2020%20TCOM%20Designing%20Near-Optimal%20Steganographic%20Codes%20in%20Practice%20Based%20on%20Polar%20Codes.pdf]] TCOM 2020
+**SPC** (*Designing near-optimal steganographic codes in practice based on polar codes*) [[PDF]](http://home.ustc.edu.cn/~zh2991/20TCOM_SPC/2020%20TCOM%20Designing%20Near-Optimal%20Steganographic%20Codes%20in%20Practice%20Based%20on%20Polar%20Codes.pdf) TCOM 2020
 
 
 
