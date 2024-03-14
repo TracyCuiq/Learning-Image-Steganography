@@ -14,7 +14,7 @@ List for learning image steganography
 
 **Wu's** (*GAN-based steganography with the concatenation of multiple feature maps*): [[PDF]](https://books.google.ca/books?hl=en&lr=&id=h87YDwAAQBAJ&oi=fnd&pg=PA3&dq=GAN-based+steganography+with+the+concatenation+of+multiple+feature+maps&ots=wRZE6lES6b&sig=c5wEVP0VVk05H0Toshl7KuCDHXc#v=onepage&q=GAN-based%20steganography%20with%20the%20concatenation%20of%20multiple%20feature%20maps&f=false) IWDW 2019
 
-**UMC-GAN** (*A stable GAN for image steganography with multi-order feature fusion*) NCAA 2022
+**UMC-GAN** (*A stable GAN for image steganography with multi-order feature fusion*) [[PDF]](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=09410643&AN=158693857&h=KyqFSdSM2Z%2FwaVuorZqPqQ1kU6Go70Dl5YNA2X42h4coTsnsj1JzeBngomXvawllUHIGSWap9DmYC2l2UuCUQA%3D%3D&crl=f) NCAA 2022
 
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
