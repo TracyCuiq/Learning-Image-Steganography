@@ -52,6 +52,8 @@ List for learning image steganography
 
 **Backpack** (*Backpack: A backpropagable adversarial embedding scheme*): [[PDF]](https://hal.science/hal-03760241/document) TIFS 2022
 
+**AMP** (*Enhancing image steganography via adversarial optimization of the stego distribution*) [[PDF]](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0165168423002293/pdfft?md5=97096a63eb3b3fd369ca9d9542c9b1b9&pid=1-s2.0-S0165168423002293-main.pdf) Signal Processing 2023
+
 ------
 
 ### Reinforcement learning based
