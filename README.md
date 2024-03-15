@@ -20,6 +20,8 @@ List for learning image steganography
 
 **Dynamic Cost Correction** (*Multi-modality ensemble distortion for spatial steganography with dynamic cost correction*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10151943/) TDSC 2023
 
+**Huang's** (*Automatic Asymmetric Embedding Cost Learning via Generative Adversarial Networks*) [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612399) MM 2023
+
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
 * ##### Cover Generation/Enhancement
