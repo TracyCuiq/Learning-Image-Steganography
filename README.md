@@ -70,7 +70,7 @@ List for learning image steganography
 
 **S-UNIWARD** (*Universal distortion function for steganography in an arbitrary domain*): [[PDF]](http://dde.binghamton.edu/vholub/pdf/EURASIP14_Universal_Distortion_Function_for_Steganography_in_an_Arbitrary_Domain.pdf) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/S-UNIWARD_matlab.zip)
 
-**HILL** (*A new cost function for spatial image steganography*) [[PDF]](https://sci-hub.se/10.1109/icip.2014.7025854) [[CODE by daniellerch]](https://github.com/daniellerch/stegolab/tree/master/HILL) [[CODE by TracyCuiq]] (https://github.com/TracyCuiq/Hill-python)
+**HILL** (*A new cost function for spatial image steganography*) [[PDF]](https://sci-hub.se/10.1109/icip.2014.7025854) [[CODE by daniellerch]](https://github.com/daniellerch/stegolab/tree/master/HILL)  [[CODE by TracyCuiq]] (https://github.com/TracyCuiq/Hill-python)
 
 ------
 
