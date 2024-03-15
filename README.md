@@ -28,6 +28,8 @@ List for learning image steganography
 
 **CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244) TNSE 2022
 
+**PICO-RL** (*Payload-independent direct cost learning for image steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10178049/) TCSVT 2023
+
 ------
 
 ### Adversarial attack based 
