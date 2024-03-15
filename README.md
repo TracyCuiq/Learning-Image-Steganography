@@ -28,8 +28,6 @@ List for learning image steganography
 
 **CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244) TNSE 2022
 
-**PICO-RL** (*Payload-independent direct cost learning for image steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10178049/) TCSVT 2023
-
 ------
 
 ### Adversarial attack based 
@@ -62,6 +60,9 @@ List for learning image steganography
 
 **SPAR-RL** (*An automatic cost learning framework for image steganography using deep reinforcement learning*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3025438) TIFS 2020
 
+**PICO-RL** (*Payload-independent direct cost learning for image steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10178049/) TCSVT 2023
+
+**JoPoL** (*Reinforcement learning of non-additive joint steganographic embedding costs with attention mechanism*) [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3453-5) Science China Information Sciences 2023
 ------
 
 ### Empirical distortion/cost function
