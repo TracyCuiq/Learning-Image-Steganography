@@ -22,6 +22,8 @@ List for learning image steganography
 
 **Huang's** (*Automatic Asymmetric Embedding Cost Learning via Generative Adversarial Networks*) [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612399) MM 2023
 
+**Tang's** (*An Embedded Cost Learning Framework Based on Cumulative Gradient Rewards*) [[PDF]}(https://link.springer.com/chapter/10.1007/978-981-99-9785-5_19) AIS&P 2023
+
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
 * ##### Cover Generation/Enhancement
