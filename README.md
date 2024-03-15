@@ -72,6 +72,11 @@ List for learning image steganography
 
 ------
 
+### Provably secure steganography
+
+**PARIS** (*Provably Secure Robust Image Steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10306313/) TMM 2023
+
+------
 ### Empirical distortion/cost function
 
 **HUGO** (*Using high-dimensional image models to perform highly undetectable steganography*): [[PDF]](https://sci-hub.se/10.1007/978-3-642-16435-4_13) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/HUGO_bounding_matlab.zip)
