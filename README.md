@@ -16,6 +16,8 @@ List for learning image steganography
 
 **UMC-GAN** (*A stable GAN for image steganography with multi-order feature fusion*) [[PDF]](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=09410643&AN=158693857&h=KyqFSdSM2Z%2FwaVuorZqPqQ1kU6Go70Dl5YNA2X42h4coTsnsj1JzeBngomXvawllUHIGSWap9DmYC2l2UuCUQA%3D%3D&crl=f) NCAA 2022
 
+**Steg-GMAN** (*Steganography Embedding Cost Learning with Generative Multi-Adversarial Network*): [[PDF]](https://ieeexplore.ieee.org/abstract/document/10265249/) TIFS 2023
+
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
 * ##### Cover Generation/Enhancement
@@ -68,7 +70,7 @@ List for learning image steganography
 
 **S-UNIWARD** (*Universal distortion function for steganography in an arbitrary domain*): [[PDF]](http://dde.binghamton.edu/vholub/pdf/EURASIP14_Universal_Distortion_Function_for_Steganography_in_an_Arbitrary_Domain.pdf) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/S-UNIWARD_matlab.zip)
 
-**HILL** (*A new cost function for spatial image steganography*) [[PDF]](https://sci-hub.se/10.1109/icip.2014.7025854) [[CODE by daniellerch]](https://github.com/daniellerch/stegolab/tree/master/HILL)
+**HILL** (*A new cost function for spatial image steganography*) [[PDF]](https://sci-hub.se/10.1109/icip.2014.7025854) [[CODE by daniellerch]](https://github.com/daniellerch/stegolab/tree/master/HILL) [[CODE by TracyCuiq]] (https://github.com/TracyCuiq/Hill-python)
 
 ------
 
