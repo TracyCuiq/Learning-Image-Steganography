@@ -8,7 +8,7 @@ List for learning image steganography
 
 **ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) SPL 2017
 
-**UT-GAN** (*An embedding cost learning framework using GAN*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2922229) [[CODE]](https://github.com/JianhuaYang001/spatial-image-steganography) TIFS 2019
+**UT-GAN** (*An embedding cost learning framework using GAN*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2922229) [[CODE]](https://github.com/JianhuaYang001/spatial-image-steganography) [[CODE by TracyCuiq]](https://github.com/TracyCuiq/UT-GAN) TIFS 2019
 
 **JS-GAN** (*Towards automatic embedding cost learning for JPEG steganography*): [[PDF]](https://www.researchgate.net/profile/Jianhua-Yang-10/publication/334351310_Towards_Automatic_Embedding_Cost_Learning_for_JPEG_Steganography/links/5db59061299bf111d4d0c911/Towards-Automatic-Embedding-Cost-Learning-for-JPEG-Steganography.pdf) MM 2019
 
