@@ -78,6 +78,8 @@ List for learning image steganography
 
 **PARIS** (*Provably Secure Robust Image Steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10306313/) TMM 2023
 
+**Zhang's** (*Provably Secure Public-Key Steganography Based on Elliptic Curve Cryptography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10418202/) TIFS 2024
+
 ------
 ### Empirical distortion/cost function
 
