@@ -60,6 +60,8 @@ List for learning image steganography
 
 **SPAR-RL** (*An automatic cost learning framework for image steganography using deep reinforcement learning*): [[PDF]](https://sci-hub.se/10.1109/tifs.2020.3025438) TIFS 2020
 
+**JEC-RL** (*Improving cost learning for JPEG steganography by exploiting JPEG domain knowledge*) [[PDF]](https://arxiv.org/pdf/2105.03867) TCSVT 2021
+
 **PICO-RL** (*Payload-independent direct cost learning for image steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10178049/) TCSVT 2023
 
 **JoPoL** (*Reinforcement learning of non-additive joint steganographic embedding costs with attention mechanism*) [[PDF]]([https://ieeexplore.ieee.org/abstract/document/10178049/](https://link.springer.com/article/10.1007/s11432-021-3453-5)) Science China Information Sciences 2023
