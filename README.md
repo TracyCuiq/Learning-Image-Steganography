@@ -18,6 +18,8 @@ List for learning image steganography
 
 **Steg-GMAN** (*Steganography Embedding Cost Learning with Generative Multi-Adversarial Network*): [[PDF]](https://ieeexplore.ieee.org/abstract/document/10265249/) TIFS 2023
 
+**Dynamic Cost Correction** (*Multi-modality ensemble distortion for spatial steganography with dynamic cost correction*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10151943/) TDSC 2023
+
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
 * ##### Cover Generation/Enhancement
