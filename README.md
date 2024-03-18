@@ -44,6 +44,8 @@ List for learning image steganography
 
 **Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [[PDF]](https://sci-hub.se/10.1145/3206004.3206012) IH&MMSec 2018
 
+**CAAS** (*Improving security for image steganography using content-adaptive adversarial perturbations*) [[PDF]](https://link.springer.com/article/10.1007/s10489-022-04321-6) Applied Intelligence 2022
+
 * ##### Adversarial embedding
 
 **ADV-EMB** (*CNN-based adversarial embedding for image steganography*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2891237) TIFS 2019
