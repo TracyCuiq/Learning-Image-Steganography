@@ -72,7 +72,7 @@ List for learning image steganography
 
 **PICO-RL** (*Payload-independent direct cost learning for image steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10178049/) TCSVT 2023
 
-**JoPoL** (*Reinforcement learning of non-additive joint steganographic embedding costs with attention mechanism*) [[PDF]]([https://ieeexplore.ieee.org/abstract/document/10178049/](https://link.springer.com/article/10.1007/s11432-021-3453-5)) Science China Information Sciences 2023
+**JoPoL** (*Reinforcement learning of non-additive joint steganographic embedding costs with attention mechanism*) [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3453-5)) Science China Information Sciences 2023
 
 **ReLOAD** (*ReLOAD: Using reinforcement learning to optimize asymmetric distortion for additive steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10041967/) TIFS 2023
 
