@@ -62,6 +62,8 @@ List for learning image steganography
 
 **AMP** (*Enhancing image steganography via adversarial optimization of the stego distribution*) [[PDF]](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0165168423002293/pdfft?md5=97096a63eb3b3fd369ca9d9542c9b1b9&pid=1-s2.0-S0165168423002293-main.pdf) Signal Processing 2023
 
+**Ma's** (*Enhancing the security of image steganography via multiple adversarial networks and channel attention modules*) [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200423002166#br0520) Digital Signal Processing 2023
+
 ------
 
 ### Reinforcement learning based
