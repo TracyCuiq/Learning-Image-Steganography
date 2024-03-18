@@ -62,9 +62,15 @@ List for learning image steganography
 
 **Backpack** (*Backpack: A backpropagable adversarial embedding scheme*): [[PDF]](https://hal.science/hal-03760241/document) TIFS 2022
 
+**Liu's** (*Adversarial robust image steganography against lossy JPEG compression*) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0165168422002079#sec0008) Signal Processing 2022
+
 **AMP** (*Enhancing image steganography via adversarial optimization of the stego distribution*) [[PDF]](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0165168423002293/pdfft?md5=97096a63eb3b3fd369ca9d9542c9b1b9&pid=1-s2.0-S0165168423002293-main.pdf) Signal Processing 2023
 
 **Ma's** (*Enhancing the security of image steganography via multiple adversarial networks and channel attention modules*) [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200423002166#br0520) Digital Signal Processing 2023
+
+**Wang's** (*Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions*) [[PDF]](https://dl.acm.org/doi/abs/10.1145/3603377) ACM Transactions on Multimedia Computing, Communications, and Applications 2023
+
+
 
 ------
 
@@ -81,6 +87,9 @@ List for learning image steganography
 **JoPoL** (*Reinforcement learning of non-additive joint steganographic embedding costs with attention mechanism*) [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3453-5) Science China Information Sciences 2023
 
 **ReLOAD** (*ReLOAD: Using reinforcement learning to optimize asymmetric distortion for additive steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10041967/) TIFS 2023
+
+**RLAE** (*Content-adaptive Adversarial Embedding for Image Steganography Using Deep Reinforcement Learning*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10219957/) ICME 2023
+
 
 ------
 
