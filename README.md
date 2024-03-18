@@ -26,13 +26,15 @@ List for learning image steganography
 
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[[PDF]](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
-* ##### Cover Generation/Enhancement
+* ##### Cover Generation/Enhancement/Stego post-processing
 
 **SGAN** (*Steganographic generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1703.05502) [[CODE]](https://github.com/dvolkhonskiy/adversarial-steganography) [[CODE by YanLo]](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387) ICMV 2020
 
 **SSGAN** (*SSGAN: secure steganography based on generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1707.01613) PCM 2018
 
 **CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244) TNSE 2022
+
+**Xie's** (*A novel gradient-guided post-processing method for adaptive image steganography*): [[PDF]](https://strathprints.strath.ac.uk/83042/1/Xie_etal_SP_2022_A_novel_gradient_guided_post_processing_method_for_adaptive_image_steganography.pdf) Signal Processing 2023
 
 ------
 
