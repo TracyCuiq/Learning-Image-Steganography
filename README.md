@@ -4,7 +4,7 @@ List for learning image steganography
 
 ### GAN based
 
-* ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-87b800)
+* ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
 
 **ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) SPL 2017 
 
@@ -41,12 +41,12 @@ List for learning image steganography
 
 ### Adversarial attack based 
 
-* ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adding%20perturbations-f1b800) 
+* ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adding%20perturbations-blue) 
 **Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [[PDF]](https://sci-hub.se/10.1145/3206004.3206012) IH&MMSec 2018
 
 **CAAS** (*Improving security for image steganography using content-adaptive adversarial perturbations*) [[PDF]](https://link.springer.com/article/10.1007/s10489-022-04321-6) Applied Intelligence 2022
 
-* ##### Adversarial embedding
+* ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adversarial%20embedding-blue) 
 
 **ADV-EMB** (*CNN-based adversarial embedding for image steganography*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2891237) TIFS 2019
 
@@ -74,7 +74,7 @@ List for learning image steganography
 
 ------
 
-### Reinforcement learning based
+### ![](https://img.shields.io/badge/Reinforcement%20learning%20based-blue) 
 
 **MCTSteg** (*MCTSteg: A Monte Carlo tree search-based reinforcement learning framework for universal non-additive steganography*): [[PDF]](https://arxiv.org/pdf/2103.13689) TIFS 2021
 
@@ -93,14 +93,14 @@ List for learning image steganography
 
 ------
 
-### Provably secure steganography
+### ![](https://img.shields.io/badge/Provably%20secure%20steganography-blue) 
 
 **PARIS** (*Provably Secure Robust Image Steganography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10306313/) TMM 2023
 
 **Zhang's** (*Provably Secure Public-Key Steganography Based on Elliptic Curve Cryptography*) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10418202/) TIFS 2024
 
 ------
-### Empirical distortion/cost function
+###  ![](https://img.shields.io/badge/Empirical%20cost%20function-blue) 
 
 **HUGO** (*Using high-dimensional image models to perform highly undetectable steganography*): [[PDF]](https://sci-hub.se/10.1007/978-3-642-16435-4_13) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/HUGO_bounding_matlab.zip)
 
@@ -112,7 +112,7 @@ List for learning image steganography
 
 ------
 
-### Modeling based 
+###  ![](https://img.shields.io/badge/Modeling%20based-blue) 
 
 **MiPOD** (*Content-Adaptive Steganography by Minimizing Statistical Detectability*): [[PDF]](http://ws.binghamton.edu/fridrich/Research/MiPOD.pdf) [[CODE]](http://dde.binghamton.edu/download/stego_algorithms/download/MiPOD_matlab.zip)
 
@@ -124,7 +124,7 @@ List for learning image steganography
 
 ------
 
-### Modification synchronizing
+###  ![](https://img.shields.io/badge/Modification%20synchronizing-blue) 
 
 **CMD** (*A strategy of clustering modification directions in spatial image steganography*): [[PDF]](https://sci-hub.se/10.1109/tifs.2015.2434600)
 
@@ -132,7 +132,7 @@ List for learning image steganography
 
 ------
 
-### Practical embedding
+###  ![](https://img.shields.io/badge/Practical%20embedding-blue) 
 
 **Gibbs**(*Gibbs construction in steganography*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5580091) TIFS 2010
 
