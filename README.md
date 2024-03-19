@@ -2,8 +2,6 @@
 List for learning image steganography 
 
 
-### GAN based
-
 * ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
 
 **ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/lsp.2017.2745572) ![](https://img.shields.io/badge/SPL%202017-f1b800)
@@ -39,7 +37,6 @@ List for learning image steganography
 
 ------
 
-### Adversarial attack based 
 
 * ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adding%20perturbations-blue) 
 **Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1145/3206004.3206012) ![](https://img.shields.io/badge/IH&MMSec%202018-f1b800)
