@@ -4,7 +4,7 @@ List for learning image steganography
 
 ### GAN based
 
-* ##### ![](https://img.shields.io/badge/GAN%2020based-Cost%2020Learning-blue)
+* ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
 
 **ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/lsp.2017.2745572) ![](https://img.shields.io/badge/SPL%202017-f1b800)
 
@@ -26,27 +26,27 @@ List for learning image steganography
 
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10398515/) ![](https://img.shields.io/badge/TMM%202024-f1b800)
 
-* #####  ![](https://img.shields.io/badge/GAN%2020based-Cover%2020Generation-blue)
+* #####  ![](https://img.shields.io/badge/GAN%20based-Cover%20Generation-blue)
 **SGAN** (*Steganographic generative adversarial networks*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://arxiv.org/pdf/1703.05502) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/dvolkhonskiy/adversarial-steganography) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387) ![](https://img.shields.io/badge/ICMV%202020-f1b800)
 
 **SSGAN** (*SSGAN: secure steganography based on generative adversarial networks*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://arxiv.org/pdf/1707.01613) ![](https://img.shields.io/badge/PCM%202018-f1b800)
 
-* #####  ![](https://img.shields.io/badge/GAN%2020based-Cover%2020Enhancement-blue)
+* #####  ![](https://img.shields.io/badge/GAN%20based-Cover%20Enhancement-blue)
 **CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244) ![](https://img.shields.io/badge/TNSE%202022-f1b800)
 
-* #####  ![](https://img.shields.io/badge/GAN%2020based-Stego%2020post%2020processing-blue)
+* #####  ![](https://img.shields.io/badge/GAN%20based-Stego%20post%20processing-blue)
 **Xie's** (*A novel gradient-guided post-processing method for adaptive image steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://strathprints.strath.ac.uk/83042/1/Xie_etal_SP_2022_A_novel_gradient_guided_post_processing_method_for_adaptive_image_steganography.pdf) ![](https://img.shields.io/badge/Signal%20Processing%202023-f1b800)
 
 ------
 
 ### Adversarial attack based 
 
-* ##### ![](https://img.shields.io/badge/Adversarial%2020attack%2020based-Adding%2020perturbations-blue) 
+* ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adding%20perturbations-blue) 
 **Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1145/3206004.3206012) ![](https://img.shields.io/badge/IH&MMSec%202018-f1b800)
 
 **CAAS** (*Improving security for image steganography using content-adaptive adversarial perturbations*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://link.springer.com/article/10.1007/s10489-022-04321-6)  ![](https://img.shields.io/badge/Applied%20Intelligence%202022-f1b800)
 
-* ##### ![](https://img.shields.io/badge/Adversarial%2020attack%2020based-Adversarial%2020embedding-blue) 
+* ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adversarial%20embedding-blue) 
 
 **ADV-EMB** (*CNN-based adversarial embedding for image steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/tifs.2019.2891237) ![](https://img.shields.io/badge/TIFS%202019-f1b800)
 
@@ -74,7 +74,7 @@ List for learning image steganography
 
 ------
 
-### ![](https://img.shields.io/badge/Reinforcement%2020learning%2020based-blue) 
+### ![](https://img.shields.io/badge/Reinforcement%20learning%20based-blue) 
 
 **MCTSteg** (*MCTSteg: A Monte Carlo tree search-based reinforcement learning framework for universal non-additive steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://arxiv.org/pdf/2103.13689) ![](https://img.shields.io/badge/TIFS%202021-f1b800)
 
@@ -93,14 +93,14 @@ List for learning image steganography
 
 ------
 
-### ![](https://img.shields.io/badge/Provably%2020secure%2020steganography-blue) 
+### ![](https://img.shields.io/badge/Provably%20secure%20steganography-blue) 
 
 **PARIS** (*Provably Secure Robust Image Steganography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10306313/) ![](https://img.shields.io/badge/TMM%202023-f1b800)
 
 **Zhang's** (*Provably Secure Public-Key Steganography Based on Elliptic Curve Cryptography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10418202/) ![](https://img.shields.io/badge/TIFS%202024-f1b800)
 
 ------
-###  ![](https://img.shields.io/badge/Empirical%2020cost%2020function-blue) 
+###  ![](https://img.shields.io/badge/Empirical%20cost%20function-blue) 
 
 **HUGO** (*Using high-dimensional image models to perform highly undetectable steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1007/978-3-642-16435-4_13) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](http://dde.binghamton.edu/download/stego_algorithms/download/HUGO_bounding_matlab.zip)
 
@@ -112,7 +112,7 @@ List for learning image steganography
 
 ------
 
-###  ![](https://img.shields.io/badge/Modeling%2020based-blue) 
+###  ![](https://img.shields.io/badge/Modeling%20based-blue) 
 
 **MiPOD** (*Content-Adaptive Steganography by Minimizing Statistical Detectability*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](http://ws.binghamton.edu/fridrich/Research/MiPOD.pdf) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](http://dde.binghamton.edu/download/stego_algorithms/download/MiPOD_matlab.zip)
 
@@ -124,7 +124,7 @@ List for learning image steganography
 
 ------
 
-###  ![](https://img.shields.io/badge/Modification%2020synchronizing-blue) 
+###  ![](https://img.shields.io/badge/Modification%20synchronizing-blue) 
 
 **CMD** (*A strategy of clustering modification directions in spatial image steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/tifs.2015.2434600)
 
@@ -132,7 +132,7 @@ List for learning image steganography
 
 ------
 
-###  ![](https://img.shields.io/badge/Practical%2020embedding-blue) 
+###  ![](https://img.shields.io/badge/Practical%20embedding-blue) 
 
 **Gibbs**(*Gibbs construction in steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5580091) ![](https://img.shields.io/badge/TIFS%202010-f1b800)
 
