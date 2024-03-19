@@ -4,7 +4,7 @@ List for learning image steganography
 
 ### GAN based
 
-* ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
+* ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-87b800)
 
 **ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) SPL 2017 
 
