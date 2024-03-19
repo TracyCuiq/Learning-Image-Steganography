@@ -1,5 +1,5 @@
 # Learning Image Steganography [![Page Views](https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg)](.)
-[![Stars](https://img.shields.io/github/stars/ThuCCSLab/Awesome-LM-SSP)](.)
+[![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Image-Steganography)](.)
 List for learning image steganography 
 
 
