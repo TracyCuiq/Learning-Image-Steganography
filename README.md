@@ -6,7 +6,7 @@ List for learning image steganography
 
 * ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
 
-**ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/lsp.2017.2745572) SPL 2017  ![ICLR'24](https://img.shields.io/badge/ICLR'24-f1b800)
+**ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/lsp.2017.2745572) ![](https://img.shields.io/badge/SPL%202017-f1b800)
 
 **UT-GAN** (*An embedding cost learning framework using GAN*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/tifs.2019.2922229) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/JianhuaYang001/spatial-image-steganography) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/TracyCuiq/UT-GAN) TIFS 2019
 
