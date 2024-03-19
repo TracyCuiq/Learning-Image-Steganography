@@ -34,7 +34,7 @@ List for learning image steganography
 * #####  ![](https://img.shields.io/badge/GAN%20based-Cover%20Enhancement-blue)
 **CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244) TNSE 2022
 
-* #####  ![](https://img.shields.io/badge/GAN%20based-Stego%20post-processing-blue)
+* #####  ![](https://img.shields.io/badge/GAN%20based-Stego%20post%20processing-blue)
 **Xie's** (*A novel gradient-guided post-processing method for adaptive image steganography*): [[PDF]](https://strathprints.strath.ac.uk/83042/1/Xie_etal_SP_2022_A_novel_gradient_guided_post_processing_method_for_adaptive_image_steganography.pdf) Signal Processing 2023
 
 ------
