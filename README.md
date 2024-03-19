@@ -35,7 +35,7 @@ List for learning image steganography
 **CEOA-GAN** (*High-Capacity Steganography Using Object Addition-based Cover Enhancement for Secure Communication in Networks*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662244) ![](https://img.shields.io/badge/TNSE%202022-f1b800)
 
 * #####  ![](https://img.shields.io/badge/GAN%2020based-Stego%2020post%2020processing-blue)
-**Xie's** (*A novel gradient-guided post-processing method for adaptive image steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://strathprints.strath.ac.uk/83042/1/Xie_etal_SP_2022_A_novel_gradient_guided_post_processing_method_for_adaptive_image_steganography.pdf) ![](https://img.shields.io/badge/Signal%2020Processing%202023-f1b800)
+**Xie's** (*A novel gradient-guided post-processing method for adaptive image steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://strathprints.strath.ac.uk/83042/1/Xie_etal_SP_2022_A_novel_gradient_guided_post_processing_method_for_adaptive_image_steganography.pdf) ![](https://img.shields.io/badge/Signal%20Processing%202023-f1b800)
 
 ------
 
@@ -61,14 +61,14 @@ List for learning image steganography
 **Liu's** (*A New Adversarial Embedding Method for Enhancing Image Steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535158) ![](https://img.shields.io/badge/TIFS%202021-f1b800)
 
 **Backpack** (*Backpack: A backpropagable adversarial embedding scheme*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://hal.science/hal-03760241/document) ![](https://img.shields.io/badge/TIFS%202022-f1b800)
-**Liu's** (*Adversarial robust image steganography against lossy JPEG compression*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://www.sciencedirect.com/science/article/pii/S0165168422002079#sec0008) ![](https://img.shields.io/badge/Signal%2020Processing%202022-f1b800)
+**Liu's** (*Adversarial robust image steganography against lossy JPEG compression*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://www.sciencedirect.com/science/article/pii/S0165168422002079#sec0008) ![](https://img.shields.io/badge/Signal%20Processing%202022-f1b800)
 
-**AMP** (*Enhancing image steganography via adversarial optimization of the stego distribution*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0165168423002293/pdfft?md5=97096a63eb3b3fd369ca9d9542c9b1b9&pid=1-s2.0-S0165168423002293-main.pdf) ![](https://img.shields.io/badge/Signal%2020Processing%202023-f1b800)
+**AMP** (*Enhancing image steganography via adversarial optimization of the stego distribution*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://www-sciencedirect-com.remotexs.ntu.edu.sg/science/article/pii/S0165168423002293/pdfft?md5=97096a63eb3b3fd369ca9d9542c9b1b9&pid=1-s2.0-S0165168423002293-main.pdf) ![](https://img.shields.io/badge/Signal%20Processing%202023-f1b800)
 
-**Ma's** (*Enhancing the security of image steganography via multiple adversarial networks and channel attention modules*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://www.sciencedirect.com/science/article/pii/S1051200423002166#br0520) ![](https://img.shields.io/badge/DIgital%Signal%2020Processing%202023-f1b800)
+**Ma's** (*Enhancing the security of image steganography via multiple adversarial networks and channel attention modules*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://www.sciencedirect.com/science/article/pii/S1051200423002166#br0520) ![](https://img.shields.io/badge/DIgital%Signal%20Processing%202023-f1b800)
 
 **Wang's** (*Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://dl.acm.org/doi/abs/10.1145/3603377)
-![](https://img.shields.io/badge/ACM%2020Transactions%2020on%2020Multimedia%2020Computing,%2020Communications,%2020and%2020Applications%202023-f1b800)
+![](https://img.shields.io/badge/ACM%20Transactions%20on%20Multimedia%20Computing,%20Communications,%20and%20Applications%202023-f1b800)
 
 
 ------
