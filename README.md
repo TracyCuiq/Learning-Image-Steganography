@@ -41,8 +41,7 @@ List for learning image steganography
 
 ### Adversarial attack based 
 
-* ##### Adding adversarial perturbations
-
+* ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adding%20perturbations-87b800) 
 **Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [[PDF]](https://sci-hub.se/10.1145/3206004.3206012) IH&MMSec 2018
 
 **CAAS** (*Improving security for image steganography using content-adaptive adversarial perturbations*) [[PDF]](https://link.springer.com/article/10.1007/s10489-022-04321-6) Applied Intelligence 2022
