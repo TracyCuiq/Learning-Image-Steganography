@@ -83,7 +83,7 @@ List for learning image steganography
 
 **PICO-RL** (*Payload-independent direct cost learning for image steganography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10178049/) ![](https://img.shields.io/badge/TCSVT%202023-f1b800)
 
-**JoPoL** (*Reinforcement learning of non-additive joint steganographic embedding costs with attention mechanism*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://link.springer.com/article/10.1007/s11432-021-3453-5) ![](https://img.shields.io/badge/Science%2020China%2020Information%2020Sciences%202023-f1b800)
+**JoPoL** (*Reinforcement learning of non-additive joint steganographic embedding costs with attention mechanism*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://link.springer.com/article/10.1007/s11432-021-3453-5) ![](https://img.shields.io/badge/Science%20China%20Information%20Sciences%202023-f1b800)
 
 **ReLOAD** (*ReLOAD: Using reinforcement learning to optimize asymmetric distortion for additive steganography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10041967/) ![](https://img.shields.io/badge/TIFS%202023-f1b800)
 
