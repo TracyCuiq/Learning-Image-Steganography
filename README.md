@@ -27,7 +27,7 @@ List for learning image steganography
 **ARES** (*ARES: On adversarial robustness enhancement for image steganographic cost learning*):[<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10398515/) TMM 2024
 
 * #####  ![](https://img.shields.io/badge/GAN%20based-Cover%20Generation-blue)
-**SGAN** (*Steganographic generative adversarial networks*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://arxiv.org/pdf/1703.05502) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/dvolkhonskiy/adversarial-steganography) [[CODE by YanLo]](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387) ICMV 2020 
+**SGAN** (*Steganographic generative adversarial networks*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://arxiv.org/pdf/1703.05502) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/dvolkhonskiy/adversarial-steganography) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387) ICMV 2020 
 
 **SSGAN** (*SSGAN: secure steganography based on generative adversarial networks*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://arxiv.org/pdf/1707.01613) PCM 2018
 
@@ -108,7 +108,7 @@ List for learning image steganography
 
 **S-UNIWARD** (*Universal distortion function for steganography in an arbitrary domain*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](http://dde.binghamton.edu/vholub/pdf/EURASIP14_Universal_Distortion_Function_for_Steganography_in_an_Arbitrary_Domain.pdf) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](http://dde.binghamton.edu/download/stego_algorithms/download/S-UNIWARD_matlab.zip)
 
-**HILL** (*A new cost function for spatial image steganography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/icip.2014.7025854) [[CODE by daniellerch]](https://github.com/daniellerch/stegolab/tree/master/HILL)  [[CODE by TracyCuiq]](https://github.com/TracyCuiq/Hill-python)
+**HILL** (*A new cost function for spatial image steganography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/icip.2014.7025854) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/daniellerch/stegolab/tree/master/HILL)  [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="20" height="20">](https://github.com/TracyCuiq/Hill-python)
 
 ------
 
