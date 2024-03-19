@@ -28,7 +28,7 @@ List for learning image steganography
 
 * ##### Cover Generation/Enhancement/Stego post-processing
 
-**SGAN** (*Steganographic generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1703.05502) [[CODE]](https://github.com/dvolkhonskiy/adversarial-steganography) [[CODE by YanLo]](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387) ICMV 2020
+**SGAN** (*Steganographic generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1703.05502) [[CODE]](https://github.com/dvolkhonskiy/adversarial-steganography) [[CODE by YanLo]](https://github.com/YanLo/steganography_pytorch/tree/b060c048142fef26ccbae1b2cb2c77f5cd7f5387) ICMV 2020 ![](https://img.shields.io/badge/GAN%20based-Cover%20Generation-blue)
 
 **SSGAN** (*SSGAN: secure steganography based on generative adversarial networks*): [[PDF]](https://arxiv.org/pdf/1707.01613) PCM 2018
 
