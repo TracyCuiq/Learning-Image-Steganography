@@ -4,9 +4,9 @@ List for learning image steganography
 
 ### GAN based
 
-* ##### 
+* ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
 
-**ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) SPL 2017 ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
+**ASDL-GAN** (*Automatic steganographic distortion learning using a generative adversarial network*): [[PDF]](https://sci-hub.se/10.1109/lsp.2017.2745572) SPL 2017 
 
 **UT-GAN** (*An embedding cost learning framework using GAN*): [[PDF]](https://sci-hub.se/10.1109/tifs.2019.2922229) [[CODE]](https://github.com/JianhuaYang001/spatial-image-steganography) [[CODE by TracyCuiq]](https://github.com/TracyCuiq/UT-GAN) TIFS 2019
 
