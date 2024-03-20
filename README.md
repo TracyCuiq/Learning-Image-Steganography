@@ -35,6 +35,8 @@ List for learning image steganography
 * #####  ![](https://img.shields.io/badge/GAN%20based-Stego%20post%20processing-blue)
 **Xie's** (*A novel gradient-guided post-processing method for adaptive image steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://strathprints.strath.ac.uk/83042/1/Xie_etal_SP_2022_A_novel_gradient_guided_post_processing_method_for_adaptive_image_steganography.pdf) ![](https://img.shields.io/badge/Signal%20Processing%202023-f1b800)
 
+**SGS** (*Adversarial steganography embedding via stego generation and selection*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/9795096/) (https://img.shields.io/badge/TDSC%202023-f1b800)
+
 ------
 
 
