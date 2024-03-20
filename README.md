@@ -70,7 +70,7 @@ List for learning image steganography
 **Wang's** (*Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://dl.acm.org/doi/abs/10.1145/3603377)
 ![](https://img.shields.io/badge/ACM%20Transactions%20on%20Multimedia%20Computing,%20Communications,%20and%20Applications%202023-f1b800)
 
-**SGS** (*Adversarial steganography embedding via stego generation and selection*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/9795096/) (https://img.shields.io/badge/TDSC%202023-f1b800)
+**SGS** (*Adversarial steganography embedding via stego generation and selection*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/9795096/) ![](https://img.shields.io/badge/TDSC%202023-f1b800)
 
 
 ------
