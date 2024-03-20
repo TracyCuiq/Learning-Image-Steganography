@@ -36,7 +36,10 @@ List for learning image steganography
 **Xie's** (*A novel gradient-guided post-processing method for adaptive image steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://strathprints.strath.ac.uk/83042/1/Xie_etal_SP_2022_A_novel_gradient_guided_post_processing_method_for_adaptive_image_steganography.pdf) ![](https://img.shields.io/badge/Signal%20Processing%202023-f1b800)
 
 * #####  ![](https://img.shields.io/badge/Artificial%20Immune%20System-blue)
-(*Constructing Immune-cover for Improving Holistic Security of Spatial Adaptive Steganography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10472059/) ![](https://img.shields.io/badge/TDSC%202024-f1b800)
+
+*Cost reassignment for improving security of adaptive steganography using an artificial immune system* [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/9814852/) ![](https://img.shields.io/badge/SPL%202022-f1b800)
+
+*Constructing Immune-cover for Improving Holistic Security of Spatial Adaptive Steganography* [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10472059/) ![](https://img.shields.io/badge/TDSC%202024-f1b800)
 
 ------
 
