@@ -39,7 +39,7 @@ List for learning image steganography
 
 *Cost reassignment for improving security of adaptive steganography using an artificial immune system* [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/9814852/) ![](https://img.shields.io/badge/SPL%202022-f1b800)
 
-*Constructing Immune-cover for Improving Holistic Security of Spatial Adaptive Steganography* [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10472059/) ![](https://img.shields.io/badge/TDSC%202024-f1b800)
+**CR-AIS** (*Constructing Immune-cover for Improving Holistic Security of Spatial Adaptive Steganography*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10472059/) ![](https://img.shields.io/badge/TDSC%202024-f1b800)
 
 ------
 
@@ -47,7 +47,10 @@ List for learning image steganography
 * ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adding%20perturbations-blue) 
 **Zhang's** (*Adversarial examples against deep neural network based steganalysis*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1145/3206004.3206012) ![](https://img.shields.io/badge/IH&MMSec%202018-f1b800)
 
+**SPS-ENH** (*Adversarial steganography based on sparse cover enhancement*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](http://staff.ustc.edu.cn/~zhangwm/Paper/2021_10.pdf) ![](https://img.shields.io/badge/J.%20Vis.%20Commun.%20Image.%20R.%202021-f1b800)
+
 **CAAS** (*Improving security for image steganography using content-adaptive adversarial perturbations*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://link.springer.com/article/10.1007/s10489-022-04321-6)  ![](https://img.shields.io/badge/Applied%20Intelligence%202022-f1b800)
+
 
 * ##### ![](https://img.shields.io/badge/Adversarial%20attack%20based-Adversarial%20embedding-blue) 
 
