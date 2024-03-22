@@ -58,11 +58,11 @@ List for learning image steganography
 
 **AEN** (*Adaptive spatial steganography based on adversarial examples*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1007/s11042-019-07994-3) ![](https://img.shields.io/badge/MTAA%202019-f1b800)
 
-**ITE-SYN** (*Image steganography based on iterative adversarial perturbations onto a synchronized-directions sub-image*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/icassp39728.2021.9414055) ![](https://img.shields.io/badge/ICASSP%202021-f1b800)
+**JS-IAE** (*Enhancing JPEG steganography using iterative adversarial examples*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/wifs47025.2019.9035101) ![](https://img.shields.io/badge/WIFS%202019-f1b800)
 
 **Bernard's** (*Explicit optimization of min max steganographic game*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/tifs.2020.3021913) ![](https://img.shields.io/badge/TIFS%202020-f1b800)
 
-**JS-IAE** (*Enhancing JPEG steganography using iterative adversarial examples*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/wifs47025.2019.9035101) ![](https://img.shields.io/badge/WIFS%202019-f1b800)
+**ITE-SYN** (*Image steganography based on iterative adversarial perturbations onto a synchronized-directions sub-image*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://sci-hub.se/10.1109/icassp39728.2021.9414055) ![](https://img.shields.io/badge/ICASSP%202021-f1b800)
 
 **Liu's** (*A New Adversarial Embedding Method for Enhancing Image Steganography*): [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535158) ![](https://img.shields.io/badge/TIFS%202021-f1b800)
 
