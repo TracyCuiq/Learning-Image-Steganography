@@ -1,5 +1,4 @@
 # Learning Image Steganography [![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Image-Steganography)](.)
-List for learning image steganography 
 
 
 * ##### ![](https://img.shields.io/badge/GAN%20based-Cost%20Learning-blue)
