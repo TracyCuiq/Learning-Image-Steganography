@@ -150,6 +150,13 @@
 
 **SPC** (*Designing near-optimal steganographic codes in practice based on polar codes*) [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](http://home.ustc.edu.cn/~zh2991/20TCOM_SPC/2020%2020TCOM%2020Designing%2020Near-Optimal%2020Steganographic%2020Codes%2020in%2020Practice%2020Based%2020on%2020Polar%2020Codes.pdf) ![](https://img.shields.io/badge/TCOM%202020-f1b800)
 
+###  ![](https://img.shields.io/badge/Artificial_immune_systems-blue) 
+
+*Cost reassignment for improving security of adaptive steganography using an artificial immune system*: [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/9814852/) ![](https://img.shields.io/badge/SPL_2022-f1b800)
+
+*A Steganography Immunoprocessing Framework against CNN-Based and Handcrafted Steganalysis*: [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" alt="Code" width="20" height="20">](https://ieeexplore.ieee.org/abstract/document/10547040/) ![](https://img.shields.io/badge/TIFS_2024-f1b800)
+
+
 
 
 
